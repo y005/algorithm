@@ -1,4 +1,4 @@
-# algorithm
+# Algorithm
 
 여태까지 풀었던 알고리즘 문제 코드 정리(C++)
 
